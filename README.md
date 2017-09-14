@@ -6,6 +6,8 @@ Chess was created as a stepping stone for the final product. It was realized tha
 
 SharedSpaceProject2 contains the final version of the Wargame at the end of the 10 weeks. The game overlays a map on the real world and allows the user to place and move units at will. Limited player and unit visibility is implemented, where a player cannot see the opponent's units until the player's own units are within a set distance of their opponent's units. The scenario used for the wargame is the South China Sea, an area of geopolitical tension and sea-based operations.
 
+Both Unity projects were created in Unity version 5.6.2f1.
+
 The Pitch with Videos powerpoint is the final presentation used for the challenge cup.
 
 ### Credits:
